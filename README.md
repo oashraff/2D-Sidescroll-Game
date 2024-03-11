@@ -22,16 +22,16 @@ To run the game locally, you need to have the following installed:
 To get started, clone this repository to your local machine.
 
 ## Controls
-**Left Arrow Key:** Move character left.
-**Right Arrow Key:** Move character right.
-**Up Arrow Key:** Jump.
-**Space Key:** Restart the game when game over.
+- **Left Arrow Key:** Move character left.
+- **Right Arrow Key:** Move character right.
+- **Up Arrow Key:** Jump.
+- **Space Key:** Restart the game when game over.
 
 
 ## File Structure
-**index.html:** Entry point for the game.
-**sketch.js:** Main game logic written in JavaScript using p5.js library.
-**assets/:** Directory containing sound files used in the game.
-**joystix monospace.otf:** Font file used for text rendering.
+- **index.html:** Entry point for the game.
+- **sketch.js:** Main game logic written in JavaScript using p5.js library.
+- **assets/:** Directory containing sound files used in the game.
+- **joystix monospace.otf:** Font file used for text rendering.
 
 ## HAVE FUN PLAYING!
